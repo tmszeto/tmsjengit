@@ -1,9 +1,11 @@
 00 Original contents of this file are preceded by 00
+01 Rename files: foo is renamed hello
+01 This file is changed, too.
 00 One Two Three
 00 Four Five Six
 00 Version has five files:
 00 README.md - from the GitHub Repo
 00 ReadMeOntmsjengit - this file
-00 foo.java
-00 foo.can
+01 hello.java
+01 hello.can
 00 abc.sql
